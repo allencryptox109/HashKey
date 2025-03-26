@@ -1,0 +1,46 @@
+Withdrawing cryptocurrency from HashKey Exchange is a straightforward process designed for security and efficiency. Follow these updated steps to seamlessly transfer your digital assets to a personal wallet.
+
+### Step 1: Access Your HashKey Exchange Account
+
+Log in to your HashKey Exchange dashboard. From the top-right menu, navigate to **"Assets"** and select **"Custody Account"** followed by **"Withdraw"** to start the withdrawal workflow.
+
+### Step 2: Whitelist Your Personal Wallet (If Needed)
+
+If your target wallet isn’t pre-approved, complete these steps:
+
+1.  On the withdrawal page, click **"Whitelist Management"**.
+    
+2.  Select **"Add Withdrawal Whitelist"** and choose **"Personal Wallet"**.
+    
+3.  Input the asset type, blockchain network (e.g., ERC20 for ETH, Bitcoin for BTC), and wallet address.
+    
+      
+    
+    **Note**: Always match the network to your asset. HashKey Exchange only supports ERC20 for ETH and Bitcoin’s native network for BTC.
+    
+4.  Sign the transaction request. For ETH/ERC20 assets, MetaMask users can connect directly for instant signing.
+    
+5.  Verify with your email and SMS codes, then confirm submission. The system will validate the address automatically.
+    
+
+### Step 3: Execute the Withdrawal
+
+1.  Return to the withdrawal page, select your asset, network, and pre-approved wallet address.
+    
+2.  Enter the withdrawal amount and review all details carefully.
+    
+3.  Confirm the transaction, verify with email/SMS codes, and submit the request.
+    
+
+HashKey Exchange processes withdrawals promptly, ensuring funds reach your wallet securely.
+
+**Pro Tips**:
+
+*   Double-check network compatibility to avoid errors.
+    
+*   Use whitelisted addresses for faster transactions.
+    
+*   Enable 2FA for an extra layer of security.
+    
+
+By following this guide, you can confidently [withdraw crypto from HashKey Exchange](https://exchange.hashkey.com/en-US/blog/How-to-Withdraw-Crypto-from-HashKey-Exchange) while safeguarding your assets. Always retain transaction IDs for reference.
