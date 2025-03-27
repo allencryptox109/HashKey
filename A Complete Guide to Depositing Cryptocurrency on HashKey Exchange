@@ -1,0 +1,66 @@
+Safely depositing cryptocurrency into your HashKey Exchange account requires attention to detail and adherence to platform protocols. Below is a streamlined guide to ensure a seamless experience.
+
+### Key Deposit Requirements
+
+1.  **Regulatory Compliance**
+    
+    Hash Blockchain Limited operates under Hong Kong’s Securities and Futures Commission (Types 1/7 licenses) and holds a virtual asset trading license under the Anti-Money Laundering Ordinance (AMLO).
+    
+2.  **Same-Name Policy**
+    
+    Deposits must originate from a wallet registered under the exact name as your HashKey Exchange account. Funds from mismatched accounts will be returned with fees (minimum transfer thresholds apply).
+    
+3.  **Whitelist Verification**
+    
+    Personal wallets require dual authentication: signature verification and small-amount testing. Frequent address changes prevent whitelisting—test with minimal funds first.
+    
+4.  **Supported Assets**
+    
+    Retail users can deposit/withdraw **BTC, ETH, AVAX, and LINK** only.
+    
+5.  **Stable Deposit Address**
+    
+    Your HashKey Exchange deposit address remains valid long-term. Changes (if any) will be notified in advance.
+    
+6.  **Minimum Deposit Limits**
+    
+    Each asset has a minimum deposit threshold; amounts below this will not be credited and cannot be recovered.
+    
+7.  **Deposit Discretion**
+    
+    HashKey Exchange reserves the right to accept/reject deposits and is not liable for third-party wallet/exchange issues.
+    
+
+### Step-by-Step Deposit Process
+
+1.  **Retrieve Deposit Address**
+    
+    Log in → **"Assets" → "Custody Account" → "Deposit"**. Select your asset and blockchain network (e.g., ERC20 for ETH), then copy the unique address.
+    
+2.  **Initiate Transfer**
+    
+    Send funds from your wallet/exchange to the copied address, ensuring:
+    
+
+*   Network alignment (e.g., Bitcoin mainnet for BTC).
+    
+*   Correct memo field (if required for specific assets).
+    
+
+4.  **Confirm Receipt**
+    
+    Once blockchain confirmations are complete, funds will appear in your HashKey Exchange balance. Monitor network congestion for large transactions.
+    
+
+### Risk Mitigation Tips
+
+*   **Double-Check Details**: Verify addresses and network types to avoid irreversible errors.
+    
+*   **Save Transaction IDs**: Keep TXIDs for tracking purposes.
+    
+*   **Stay Informed**: Monitor HashKey Exchange updates for service changes or maintenance.
+    
+
+### Final Notes
+
+By following these guidelines, you can securely [deposit cryptocurrencies into HashKey Exchange](https://exchange.hashkey.com/en-US/blog/How-to-Deposit-Cryptocurrency-to-HashKey-Exchange) and begin trading or managing your portfolio. While the platform prioritizes security, always exercise caution and confirm all details before finalizing transfers.
