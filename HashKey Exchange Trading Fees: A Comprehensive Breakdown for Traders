@@ -1,0 +1,55 @@
+When navigating HashKey Exchange, understanding how trading fees are structured is crucial for maximizing profitability. These fees are categorized into **maker fees** and **taker fees**, determined by whether your order adds liquidity (maker) or removes it (taker). Here’s a detailed look at how they apply across different trading pairs.
+
+### 1\. Crypto-to-Crypto Trading
+
+Fees here are denominated in the **base currency** of the trading pair:
+
+*   **Example: BTC/USDT**
+    
+
+*   **Buy (Taker Order):** Fee charged in BTC
+    
+*   **Sell (Maker Order):** Fee charged in USDT
+    
+
+### 2\. Security Token (ST) to Crypto Trading
+
+Fees are deducted in the **quote currency**:
+
+*   **Example: SPICE/USDC**
+    
+
+*   **Buy or Sell:** Fee charged in USDC
+    
+
+### 3\. Fiat-to-Crypto Trading
+
+Fees are calculated in the fiat currency specified:
+
+*   **Example: BTC/USD or BTC/HKD**
+    
+
+*   **Buy or Sell:** Fee charged in USD or HKD
+    
+
+### Key Notes on Network Fees
+
+*   **Trading Fees ≠ Network Fees:** Network fees are blockchain transaction costs (e.g., ETH gas fees) unrelated to HashKey’s charges.
+    
+*   **Withdrawals/Deposits:** Network fees apply when transferring crypto to/from the exchange, not during trades.
+    
+
+### Why This Matters
+
+By grasping fee structures, traders can:
+
+*   Optimize order types (maker vs. taker) to reduce costs.
+    
+*   Factor fees into profit calculations.
+    
+*   Choose trading pairs aligned with their strategy.
+    
+
+  
+
+For real-time fee rates, check [HashKey’s official fee schedule](https://exchange.hashkey.com/en-US/blog/How-Does-Trading-Fee-Work-in-HashKey-Exchange). Always account for both trading and network fees to stay ahead in your crypto journey.
